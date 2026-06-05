@@ -1,7 +1,8 @@
 # 🧠 agent-knowledge-base
 
-> <img src="https://flagcdn.com/24x18/ru.png" alt="RU" width="22" align="top"> **Долговременная память для ИИ-агентов** — самодостаточный каркас базы знаний
-> на Markdown с локальным семантическим поиском (без облака и API-ключей) и
+> [!NOTE]
+> <img src="https://flagcdn.com/24x18/ru.png" alt="RU" width="22" align="top"> **TL;DR.** Долговременная память для ИИ-агентов — самодостаточный каркас базы
+> знаний на Markdown с локальным семантическим поиском (без облака и API-ключей) и
 > протоколом работы для Claude Code, Cursor, Gemini CLI, Aider и др.
 
 [![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?logo=github&logoColor=white)](https://github.com/chelslava/agent-knowledge-base/generate)
