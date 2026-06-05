@@ -11,7 +11,7 @@
 ![Cross-lingual](https://img.shields.io/badge/embeddings-bge--m3%20(RU%2FEN)-blue)
 
 > [!NOTE]
-> **🇬🇧 TL;DR (English).** A drop-in, file-based long-term memory for AI coding
+> <img src="https://flagcdn.com/24x18/gb.png" alt="EN" width="22" align="top"> **TL;DR (English).** A drop-in, file-based long-term memory for AI coding
 > agents. Markdown notes + Obsidian-style `[[wikilinks]]` + a controlled taxonomy,
 > governed by a single contract file (`AGENTS.md`) every agent reads first. Ships
 > with local, cross-lingual semantic search (via
