@@ -1,0 +1,9 @@
+# Индекс, кэш моделей и логи md-semantic-search (mdss) — генерируются, не коммитим
+.mdss/
+**/.mdss/
+.cache/
+**/.cache/
+.logs/
+**/.logs/
+.npm-g.log
+**/*.tmp.log
