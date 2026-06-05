@@ -10,14 +10,15 @@
 ![Local-first](https://img.shields.io/badge/search-local%20%C2%B7%20no%20API%20keys-2ea44f)
 ![Cross-lingual](https://img.shields.io/badge/embeddings-bge--m3%20(RU%2FEN)-blue)
 
-<sub>🇬🇧 **TL;DR (English):** A drop-in, file-based long-term memory for AI coding
-agents. Markdown notes + Obsidian-style `[[wikilinks]]` + a controlled taxonomy,
-governed by a single contract file (`AGENTS.md`) every agent reads first. Ships
-with local, cross-lingual semantic search (via
-[md-semantic-search](https://github.com/chelslava/md-semantic-search), runs fully
-offline) to prevent duplicate notes, document templates for projects, and an
-optional auto-commit hook so your knowledge stays versioned. Clone, point your
-agent at it, done. Docs below are in Russian.</sub>
+> [!NOTE]
+> **🇬🇧 TL;DR (English).** A drop-in, file-based long-term memory for AI coding
+> agents. Markdown notes + Obsidian-style `[[wikilinks]]` + a controlled taxonomy,
+> governed by a single contract file (`AGENTS.md`) every agent reads first. Ships
+> with local, cross-lingual semantic search (via
+> [md-semantic-search](https://github.com/chelslava/md-semantic-search), runs
+> fully offline) to prevent duplicate notes, document templates for projects, and
+> an optional auto-commit hook so your knowledge stays versioned. Clone, point
+> your agent at it, done. Docs below are in Russian.
 
 ---
 
