@@ -4,6 +4,7 @@
 > на Markdown с локальным семантическим поиском (без облака и API-ключей) и
 > протоколом работы для Claude Code, Cursor, Gemini CLI, Aider и др.
 
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?logo=github&logoColor=white)](https://github.com/chelslava/agent-knowledge-base/generate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Markdown](https://img.shields.io/badge/format-Markdown-083fa1)
 ![Local-first](https://img.shields.io/badge/search-local%20%C2%B7%20no%20API%20keys-2ea44f)
